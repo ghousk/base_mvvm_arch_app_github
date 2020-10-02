@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="app_grey_2">#454545</color>
+    <color name="app_action_bar_background">#ffffff</color>
+    <color name="app_action_bar_title">#000000</color>
+    <color name="app_heading_text">#000000</color>
+    <color name="app_general_text">#000000</color>
+    <color name="app_general_background">#ffffff</color>
+    <color name="app_item_detail_background">#ffffff</color>
+    <color name="app_border_background">#aaa</color>
+
+    <color name="home_action_bar_background">@color/app_action_bar_background</color>
+    <color name="home_action_bar_title_text">@color/app_action_bar_title</color>
+    <color name="title_back_btn_action_bar_background">@color/app_action_bar_background</color>
+    <color name="title_back_btn_action_bar_title">@color/app_action_bar_title</color>
+    <color name="app_theme_heading_text">@color/app_heading_text</color>
+    <color name="app_theme_body_text">@color/app_general_text</color>
+    <color name="item_detail_image_view_background">@color/app_general_background</color>
+    <color name="item_detail_border_layout_background">@color/app_border_background</color>
+    <color name="item_detail_sub_item_name">@color/app_grey_2</color>
+    <color name="item_detail_body_layout_background">@color/app_item_detail_background</color>
+</resources>

@@ -1,0 +1,19 @@
+<!--
+~ *********************************************************************
+~ Created by Ghous Khan on 2020-10-02.
+~ Innovative Quest Ltd
+~ Copyright (C) Innovative Quest Ltd All Rights Reserved
+~ Any copying or reproduction of this software in strictly prohibited.
+~ *********************************************************************
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.innovativequest.base_mvvm_arch_app_github">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".testing.SingleFragmentActivity"></activity>
+    </application>
+
+</manifest>
