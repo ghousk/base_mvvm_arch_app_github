@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_detail_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="MergeRootFrame">
+
+    <FrameLayout
+        android:id="@+id/heroImageLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/detail_screen_iv_height"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_gravity="center">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/item_detail_iv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:padding="6dp"
+            android:background="@color/item_detail_image_view_background"
+            android:scaleType="centerCrop"/>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:visibility="gone"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/border_layout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:weightSum="1"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/heroImageLayout"
+        android:background="@color/item_detail_border_layout_background">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/itemNameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:paddingStart="@dimen/text_fields_horizontal_padding"
+            android:paddingEnd="@dimen/text_fields_horizontal_padding"
+            android:gravity="start|bottom"
+            style="@style/AppTheme.TextAppearance.H1Bold.Dark"
+            android:textAllCaps="false"
+            android:ellipsize="end"
+            android:maxLines="1"
+            tools:text="How to Demolish an Entire Civilization and Still Feel Good About Yourself in the Morning" />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/subItemNameTv"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:textColor="@color/item_detail_sub_item_name"
+            android:paddingStart="@dimen/text_fields_horizontal_padding"
+            android:paddingEnd="@dimen/text_fields_horizontal_padding"
+            android:textAllCaps="false"
+            style="@style/AppTheme.TextAppearance.H2Medium"
+            android:gravity="start|top"
+            android:ellipsize="end"
+            android:maxLines="1"
+            tools:text="By: Ann Cecilia Diana Emily Fanny Gertrude Hypatia Inez Jane Kate Louisa Maud Nora Orphelia Quince Rebecca Starkey Teresa Ulysis Venus Winifred Xenophen Yetty Zeus Pepper"
+            />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:paddingStart="@dimen/detail_screen_body_text_horizontal_padding"
+        android:paddingEnd="@dimen/detail_screen_body_text_horizontal_padding"
+        app:layout_constraintTop_toBottomOf="@id/border_layout"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_1_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="Comments: 225632"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_2_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="mylooooooooooooooooooooooooooooongtextnameeeeeeeeeeeeeee"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_3_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="mylooooooooooooooooooooooooooooongtextnameeeeeeeeeeeeeee"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_4_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="mylooooooooooooooooooooooooooooongtextnameeeeeeeeeeeeeee"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_5_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="mylooooooooooooooooooooooooooooongtextnameeeeeeeeeeeeeee"/>
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/body_item_6_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/AppTheme.TextAppearance.BodyMedium"
+            tools:text="mylooooooooooooooooooooooooooooongtextnameeeeeeeeeeeeeee"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

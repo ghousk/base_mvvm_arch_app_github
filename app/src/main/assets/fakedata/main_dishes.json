@@ -1,0 +1,744 @@
+{
+  "main_dishes": [
+    {
+      "id": "101",
+      "title": "Daal Chawal",
+      "quantites": [
+        "One Box"
+      ],
+      "prices": [
+        "15"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "102",
+      "title": "Allo ki Bhujia",
+      "quantites": [
+        "Small Box"
+      ],
+      "prices": [
+        "10"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/aloo_bhaji_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/aloo_bhaji_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "103",
+      "title": "Bhindi ki Bhujia",
+      "quantites": [
+        "Small Box"
+      ],
+      "prices": [
+        "10"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/bhindi_bhaji_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/bhindi_bhaji_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "104",
+      "title": "Toraee",
+      "quantites": [
+        "Small Box"
+      ],
+      "prices": [
+        "10"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/tori_bhaji_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/tori_bhaji_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "105",
+      "title": "Baigan",
+      "quantity": "Small Box",
+      "price": "10",
+      "quantites": [
+        "Small Box"
+      ],
+      "prices": [
+        "10"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "106",
+      "title": "Palak Allo",
+      "quantity": "Small Box",
+      "price": "10",
+      "quantites": [
+        "Small Box"
+      ],
+      "prices": [
+        "10"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/aloo_palak_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/aloo_palak_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "107",
+      "title": "Chicken Boti",
+      "quantity": "One Box",
+      "price": "12",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "12",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/chicken_boti_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_boti_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "108",
+      "title": "Chicken Pilao",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "12",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/chicken_pilau_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_pilau_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "109",
+      "title": "Chicken Biryani",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "12",
+        "35",
+        "60"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/chicken_biryani_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_biryani_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "110",
+      "title": "Chicken Karahi",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/chicken_karahi_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_karahi_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "111",
+      "title": "Chicken Nihari",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/chicken_nihari_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_nihari_hero.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "112",
+      "title": "Chicken Haleem",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "113",
+      "title": "Chicken Korma",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "12",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "114",
+      "title": "Dam Ka Keema",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "20",
+        "40",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "115",
+      "title": "Chicken Spicy Keema",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "17",
+        "35",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "116",
+      "title": "Beef Pilao",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "45",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "117",
+      "title": "Beef Biryani",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "45",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "118",
+      "title": "Beef Nihari",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "45",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "119",
+      "title": "Paya",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "45",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "120",
+      "title": "Beef Haleem",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "40",
+        "80"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "121",
+      "title": "Beef Karahi",
+      "quantites": [
+        "One Box"
+      ],
+      "prices": [
+        "20"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "122",
+      "title": "Chapati Roti",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "40",
+        "70"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "123",
+      "title": "Chat Papri",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "25",
+        "40"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "124",
+      "title": "Murgh Cholay",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "12",
+        "35",
+        "55"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "125",
+      "title": "Chicken fried rice with beef chilli",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "25",
+        "50",
+        "90"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "126",
+      "title": "Shrimp fried rice with chicken chilli",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "25",
+        "50",
+        "90"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "127",
+      "title": "Bihari Kabab",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "65",
+        "120"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "128",
+      "title": "Chicken Chowmein",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "25",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "129",
+      "title": "Lamb Afghani Pilao",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "45",
+        "95"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "130",
+      "title": "Chicken Corn Soup",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "25",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "131",
+      "title": "Aloo Gosht",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "35",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "132",
+      "title": "Channa Daal Ghosht",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "15",
+        "35",
+        "45"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "133",
+      "title": "3 Person DEAL 6 Puri Halwa",
+      "quantites": [
+        "One Box"
+      ],
+      "prices": [
+        "100"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "134",
+      "title": "Choolay Aloo ka Salan",
+      "quantites": [
+        "One Box",
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "25",
+        "30",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "135",
+      "title": "Kheer",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "30",
+        "50"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "136",
+      "title": "Custard",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "30",
+        "45"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "137",
+      "title": "Fruit and Cream",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "30",
+        "45"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "138",
+      "title": "Mango and Cream",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "30",
+        "45"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "139",
+      "title": "Chocolate Eclair",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "30",
+        "45"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "140",
+      "title": "Trimasu",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "35",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "141",
+      "title": "Cream and custard delight",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "35",
+        "60"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    },
+    {
+      "id": "142",
+      "title": "Sheer Khurma",
+      "quantites": [
+        "Half Tray",
+        "Full Tray"
+      ],
+      "prices": [
+        "35",
+        "65"
+      ],
+      "summary": "A summary of the dish",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "meal_type": "1"
+    }
+  ]
+}

@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph_details"
-    app:startDestination="@id/fragment_item_detail">
+    app:startDestination="@id/item_list_fragment">
     <fragment
-        android:id="@+id/fragment_item_detail"
-        android:name="com.innovativequest.ayesha_naeem_catering.ItemDetailFragment"
+        android:id="@+id/fragment_main_item_detail"
+        android:name="com.innovativequest.ayesha_naeem_catering.MainItemDetailFragment"
         android:label="@string/title_item_detail"
-        tools:layout="@layout/fragment_item_detail">
+        tools:layout="@layout/fragment_main_item_detail">
         <argument
             android:name="item_id"
             android:defaultValue=""

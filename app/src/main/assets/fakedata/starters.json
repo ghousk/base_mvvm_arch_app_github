@@ -1,0 +1,169 @@
+{
+    "starters": [
+              {
+                  "id": "1",
+                  "title": "Chicken Paratha Roll",
+                  "quantity": "3",
+                  "price": "10",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1001.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2001.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "2",
+                  "title": "Chicken Shami Kebab",
+                  "quantity": "4 pcs",
+                  "price": "10",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1002.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2002.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "3",
+                  "title": "Beef Shami Kebab",
+                  "quantity": "12 pcs",
+                  "price": "24",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1003.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2003.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "4",
+                  "title": "Chicken Samosa",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1004.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2004.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "5",
+                  "title": "Beef Samosa",
+                  "quantity": "12 pcs",
+                  "price": "20",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1005.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2005.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "6",
+                  "title": "Spring Roll",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1006.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2006.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "7",
+                  "title": "Chicken Patties",
+                  "quantity": "12 pcs",
+                  "price": "12",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1007.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2007.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "8",
+                  "title": "Beef Patties",
+                  "quantity": "12 pcs",
+                  "price": "18",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1008.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2008.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "9",
+                  "title": "Chicken Fry",
+                  "quantity": "10 pcs",
+                  "price": "20",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1009.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2009.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "10",
+                  "title": "Chicken Tikka",
+                  "quantity": "10 pcs",
+                  "price": "25",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1010.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2010.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "11",
+                  "title": "Whole Chicken Charga",
+                  "quantity": "",
+                  "price": "25",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1011.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2011.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "12",
+                  "title": "Fish Fry with French Fries",
+                  "quantity": "8 pcs",
+                  "price": "16",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1012.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2012.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "13",
+                  "title": "Chicken Shashlik",
+                  "quantity": "12 pcs",
+                  "price": "24",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1013.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2013.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "14",
+                  "title": "Chapati Roti",
+                  "quantity": "1 pc",
+                  "price": "1",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1014.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2014.jpg",
+                  "meal_type": "0"
+              },
+              {
+                  "id": "15",
+                  "title": "Paratha",
+                  "quantity": "1 pc",
+                  "price": "2",
+                  "summary": "A summary of the dish",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                  "img_url": "file:///android_asset/fakedata/images/1015.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/2015.jpg",
+                  "meal_type": "0"
+              }
+    ]
+}
