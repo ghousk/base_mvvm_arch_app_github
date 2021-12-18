@@ -18,8 +18,8 @@
                   "price": "10",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1002.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2002.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_shami_kebab_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_shami_kebab_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -29,8 +29,8 @@
                   "price": "24",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1003.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2003.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/beef_shami_kebab_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/beef_shami_kebab_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -40,8 +40,8 @@
                   "price": "12",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1004.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2004.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_samosa_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_samosa_hero.jpg",
                   "meal_type": "0"
               },
               {
