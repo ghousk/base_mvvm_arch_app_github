@@ -73,8 +73,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/baigan_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/baigan_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -204,8 +204,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chicken_haleem_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_haleem_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -223,8 +223,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chicken_korma_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_korma_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -242,8 +242,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/dam_ka_keema_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/dam_ka_keema_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -261,8 +261,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/spicy_chicken_keema_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/spicy_chicken_keema_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -280,8 +280,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/beef_pilao_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/beef_pilao_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -299,8 +299,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/beef_biryani_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/beef_biryani_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -318,8 +318,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/beef_nihari_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/beef_nihari_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -335,8 +335,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/paya_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/paya_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -352,8 +352,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/beef_haleem_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/beef_haleem_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -367,8 +367,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/beef_karahi_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/beef_karahi_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -384,8 +384,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chapati_roti_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chapati_roti_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -401,8 +401,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chat_papri_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chat_papri_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -420,8 +420,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/murgh_cholay_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/murgh_cholay_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -439,8 +439,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chicken_fried_rice_beef_chilli_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_fried_rice_beef_chilli_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -458,8 +458,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/shrimp_fried_rice_chicken_chilli_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/shrimp_fried_rice_chicken_chilli_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -475,8 +475,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/behari_kabab_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/behari_kabab_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -494,8 +494,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chicken_chow_mein_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_chow_mein_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -511,8 +511,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/lamb_afghani_pulao_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/lamb_afghani_pulao_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -528,8 +528,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chicken_corn_soup_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chicken_corn_soup_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -547,8 +547,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/aloo_gosht_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/aloo_gosht_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -566,8 +566,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/channa_daal_gosht_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/channa_daal_gosht_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -581,8 +581,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/halwa_puri_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/halwa_puri_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -600,8 +600,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/aloo_cholay_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/aloo_cholay_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -617,8 +617,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/kheer_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/kheer_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -634,8 +634,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/custard_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/custard_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -651,8 +651,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/fruit_cream_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/fruit_cream_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -668,8 +668,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/mango_cream_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/mango_cream_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -685,8 +685,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/chocolate_eclairs_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/chocolate_eclairs_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -702,8 +702,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/trimasu_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/trimasu_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -719,8 +719,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/custard_cream_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/custard_cream_hero.jpg",
       "meal_type": "1"
     },
     {
@@ -736,8 +736,8 @@
       ],
       "summary": "A summary of the dish",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "img_url": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
-      "hero_img": "file:///android_asset/fakedata/images/daal_chawal_list.jpg",
+      "img_url": "file:///android_asset/fakedata/images/sheer_khurma_list.jpg",
+      "hero_img": "file:///android_asset/fakedata/images/sheer_khurma_hero.jpg",
       "meal_type": "1"
     }
   ]

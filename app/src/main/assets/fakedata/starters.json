@@ -51,8 +51,8 @@
                   "price": "20",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1005.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2005.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/beef_samosa_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/beef_samosa_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -62,8 +62,8 @@
                   "price": "12",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1006.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2006.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/spring_rolls_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/spring_rolls_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -73,8 +73,8 @@
                   "price": "12",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1007.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2007.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_patties_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_patties_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -84,8 +84,8 @@
                   "price": "18",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1008.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2008.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/beef_patties_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/beef_patties_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -95,8 +95,8 @@
                   "price": "20",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1009.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2009.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_fry_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_fry_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -106,8 +106,8 @@
                   "price": "25",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1010.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2010.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_tikka_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_tikka_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -117,8 +117,8 @@
                   "price": "25",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1011.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2011.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_charga_hero.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_charga_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -128,8 +128,8 @@
                   "price": "16",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1012.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2012.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/fried_fish_with_chips_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/fried_fish_with_chips_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -139,8 +139,8 @@
                   "price": "24",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1013.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2013.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chicken_shashlik_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chicken_shashlik_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -150,8 +150,8 @@
                   "price": "1",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1014.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2014.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/chapati_roti_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/chapati_roti_hero.jpg",
                   "meal_type": "0"
               },
               {
@@ -161,8 +161,8 @@
                   "price": "2",
                   "summary": "A summary of the dish",
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                  "img_url": "file:///android_asset/fakedata/images/1015.jpg",
-                  "hero_img":"file:///android_asset/fakedata/images/2015.jpg",
+                  "img_url": "file:///android_asset/fakedata/images/paratha_list.jpg",
+                  "hero_img":"file:///android_asset/fakedata/images/paratha_hero.jpg",
                   "meal_type": "0"
               }
     ]
